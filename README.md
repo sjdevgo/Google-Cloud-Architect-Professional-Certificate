@@ -6,7 +6,7 @@
 
 1. Google Cloud Fundamentals: Core Infrastructure [Certificate](https://www.coursera.org/account/accomplishments/verify/ZQEVNMEF5UWZ)
 2. Essential Google Cloud Infrastructure: Foundation [Certificate](https://coursera.org/share/47f3c33b8157611a32090da4b21f357b)
-3. Essential Google Cloud Infrastructure: Core Services [Certificate](https://www.coursera.org/learn/gcp-infrastructure-core-services/home/module/1)
+3. Essential Google Cloud Infrastructure: Core Services [Certificate](https://coursera.org/share/85518d07fc6d0f7647e9d0fbceeea8f7)
 4. Elastic Google Cloud Infrastructure: Scaling and Automation [Certificate](https://coursera.org/share/d119766afd0e822f690310b46bcd6291)
 5. Reliable Google Cloud Infrastructure: Design and Process [Certificate](https://www.coursera.org/learn/cloud-infrastructure-design-process/home/module/1)
 6. Architecting with Google Kubernetes Engine: Foundations [Certificate](https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke/home/module/1)
