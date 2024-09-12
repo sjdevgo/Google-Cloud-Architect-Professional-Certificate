@@ -1,4 +1,4 @@
-# Google Cloud Architect Professional Certificate [7 course series](https://www.coursera.org/programs/los-gatos-library-pjaqd/professional-certificates/gcp-cloud-architect?source=search#courses) [Certificate](https://coursera.org/share/806aa352124559caa1b23a03e5f49021)
+# Google Cloud Architect Professional [Certificate](https://coursera.org/share/806aa352124559caa1b23a03e5f49021)
 
    * Acquired advanced skills in cloud architecture, preparing for the industry-recognized Google Cloud Professional Cloud Architect certification, ranked #2 on Global Knowledge's list of top-paying certifications in 2021.
    * Gained hands-on experience deploying infrastructure components such as networks, systems, and application services through practical Qwiklabs projects.
