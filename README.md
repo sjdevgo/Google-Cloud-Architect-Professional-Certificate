@@ -1,4 +1,4 @@
-# Google Cloud Architect Professional Certificate [7 course series](https://www.coursera.org/programs/los-gatos-library-pjaqd/professional-certificates/gcp-cloud-architect?source=search#courses)
+# Google Cloud Architect Professional Certificate [7 course series](https://www.coursera.org/programs/los-gatos-library-pjaqd/professional-certificates/gcp-cloud-architect?source=search#courses) [Certificate](https://coursera.org/share/806aa352124559caa1b23a03e5f49021)
 
    * Acquired advanced skills in cloud architecture, preparing for the industry-recognized Google Cloud Professional Cloud Architect certification, ranked #2 on Global Knowledge's list of top-paying certifications in 2021.
    * Gained hands-on experience deploying infrastructure components such as networks, systems, and application services through practical Qwiklabs projects.
@@ -10,5 +10,5 @@
 4. Elastic Google Cloud Infrastructure: Scaling and Automation [Certificate](https://coursera.org/share/d119766afd0e822f690310b46bcd6291)
 5. Reliable Google Cloud Infrastructure: Design and Process [Certificate](https://coursera.org/share/72587d263039798c57ffa4c71ea9de56)
 6. Architecting with Google Kubernetes Engine: Foundations [Certificate](https://coursera.org/share/5606b9c16f22dd2fc6dac5a75d8a061a)
-7. Preparing for your Professional Cloud Architect Journey [Certificate](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam/home/module/1)
+7. Preparing for your Professional Cloud Architect Journey [Certificate](https://coursera.org/share/0c7a23582e3d89e39aa8a209af8e3fec)
    
